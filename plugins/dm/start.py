@@ -304,7 +304,7 @@ async def _back(bot, callbackQuery):
                         exc_info=True
                         )
 
-@LovesPdfLovesPdf.on_callback_query(refresh | refreshDoc | refreshImg)
+@LovesPdf.on_callback_query(refresh | refreshDoc | refreshImg)
 async def _refresh(bot, callbackQuery):
     try:
         if (callbackQuery.message.chat.type != "private") and (
