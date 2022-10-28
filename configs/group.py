@@ -1,4 +1,6 @@
+#@xmartperson
 
+import os
 #------------------->
 
 class groupConfig(object):
