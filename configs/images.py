@@ -16,7 +16,7 @@ PDF_THUMBNAIL = "./images/thumbnail.jpeg"
 # ❌ WELCOME IMAGE ❌ [EDITABLE]
 # from Configs.images import WELCOME_PIC
 # WELCOME_IMAGE="./images/start.jpeg"
-WELCOME_PIC = "https://te.legra.ph/file/8dfa3760df91a218a629c.jpg"
+WELCOME_PIC = "https://te.legra.ph/file/cb7f9a18a51f7ed9a843d.jpg"
 
 
 # ❌ BANNED IMAGE ❌ [EDITABLE]
